@@ -1,0 +1,10 @@
+[
+  {
+    "description": "Mongo setup check",
+    "amount": 123.45,
+    "category": "Service",
+    "type": "income",
+    "date": "2026-06-26T00:00:00.000Z",
+    "_id": "local_kdhfgoi92"
+  }
+]
